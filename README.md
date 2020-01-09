@@ -25,7 +25,7 @@ Demonstration of how to apply Stack and Queue data structures to stimulate Chat 
             <br/><sub>
             <b>MinhTu Thomas Hoang</b></a>
             </sub><br />
-            📖 👀
+            📖 🎨
         </td>
     </tr>
 </table>
