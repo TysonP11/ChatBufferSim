@@ -11,7 +11,7 @@ Demonstration how to apply Stack and Queue data structures to stimulate Chat Buf
 <!-- markdownlint-disable -->
 <table>
     <tr>
-        <td> 
+        <td align = 'center'> 
             <a href="https:https://github.com/mnhthng-thms"><img src="https://avatars3.githubusercontent.com/u/19143075?s=460&v=4" width="100px;" alt=""/>
             <br/><sub>
             <b>MinhTu Thomas Hoang</b>
