@@ -12,7 +12,7 @@ Demonstration of how to apply Stack and Queue data structures to stimulate Chat 
 <table>
     <tr>
         <td align = 'center'> 
-            <a href="https:https://github.com/mnhthng-thms" target=" _blank"><img src="https://avatars3.githubusercontent.com/u/19143075?s=460&v=4" width="100px;" alt=""/>
+            <a href="https://github.com/mnhthng-thms" target=" _blank"><img src="https://avatars3.githubusercontent.com/u/19143075?s=460&v=4" width="100px;" alt=""/>
             <br/><sub>
             <b>MinhTu Thomas Hoang</b>
             </sub><br />
