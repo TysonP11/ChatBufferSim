@@ -1,6 +1,6 @@
 # Simple Chat Buffer
 
-Demonstration how to apply Stack and Queue data structures to stimulate Chat Buffer
+Demonstration of how to apply Stack and Queue data structures to stimulate Chat Buffer
 
 ## About this project
 
@@ -28,7 +28,7 @@ Demonstration how to apply Stack and Queue data structures to stimulate Chat Buf
 
 ### Changelog
 
-09/01/2020
+**09/01/2020**
 
 - README updated
 - `.gitignore` added -> binary files, configuration and other Eclipse-related files remove from the Git repo
