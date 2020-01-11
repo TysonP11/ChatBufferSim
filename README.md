@@ -11,8 +11,7 @@ Demonstration of how to apply Stack and Queue data structures to stimulate Chat 
 <!-- markdownlint-disable -->
 <table>
     <tr>
-        <td>
-            <td align = 'center'> 
+        <td align = 'center'> 
             <a href="https://github.com/TysonP11" target=" _blank"><img src="https://avatars3.githubusercontent.com/u/59603295?s=400&v=4" width="100px;" alt=""/>
             <br/><sub>
             <b>TysonP11</b></a>
