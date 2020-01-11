@@ -19,7 +19,6 @@ Demonstration of how to apply Stack and Queue data structures to stimulate Chat 
             </sub><br />
             🤔 💻 
         </td>
-        </td>
         <td align = 'center'> 
             <a href="https://github.com/mnhthng-thms" target=" _blank"><img src="https://avatars3.githubusercontent.com/u/19143075?s=460&v=4" width="100px;" alt=""/>
             <br/><sub>
